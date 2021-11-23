@@ -24,7 +24,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/post-1.jpeg
+      url: /images/post-2.jpeg
       altText: Image alt text
       caption: Image caption
     styles:
