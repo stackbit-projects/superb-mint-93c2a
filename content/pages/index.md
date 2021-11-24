@@ -110,7 +110,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/hero.png
       altText: Image alt text
       caption: Image caption
     styles:
