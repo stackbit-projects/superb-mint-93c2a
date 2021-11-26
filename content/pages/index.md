@@ -154,6 +154,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/hero.png
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-c
