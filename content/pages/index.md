@@ -15,7 +15,6 @@ sections:
         title: Head chef at The Cook
         image:
           type: ImageBlock
-          url: /images/desmond-eagle.jpg
           altText: Photo of Isabelle Parks
         styles:
           self:
